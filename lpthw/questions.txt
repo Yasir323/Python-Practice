@@ -1,0 +1,27 @@
+Question 1:
+    Amount paid to Rasnah for 6 days of work = $187.80
+
+    Amount paid to Rasnah for 1 day's work = $187.80 / 6
+                                           = $31.3
+
+Question 2:
+    Charge for printing one photo = $0.55
+
+    Charge for printing 40 photos = $0.55 x 40
+                                  = $22
+    Total amount to be paid = Charge for printing photos + Service Charge
+                            = $22 + $2.50
+                            = $24.50
+
+Question 3:
+    Amount paid by Mr. Ho = Amount paid per Half Hour from 2:30pm to 6:00pm + Entry Charge of parking after 6:00pm
+                          = $1.50 x Number of half hours                    + $2.50
+                          = $1.50 x 7                                       + $2.50
+                          = $10.50 + $2.50
+                          = $13.00
+
+    Amount paid by Mrs. Lee = Amount paid per Half Hour from 12:45pm to 6:00pm + Entry charge of parking after 6:00pm
+                            = $1.50 x Number of half hours                     + $2.50
+                            = $1.50 x 11                                       + $2.50
+                            = $16.50 + $2.50
+                            = $19.00

@@ -1,0 +1,61 @@
+append(self, object, /)
+|      Append object to the end of the list.
+|
+|  clear(self, /)
+|      Remove all items from list.
+|
+|  copy(self, /)
+|      Return a shallow copy of the list.
+|
+|  count(self, value, /)
+|      Return number of occurrences of value.
+|
+|  extend(self, iterable, /)
+|      Extend list by appending elements from the iterable.
+|
+|  index(self, value, start=0, stop=2147483647, /)
+|      Return first index of value.
+|
+|      Raises ValueError if the value is not present.
+|
+|  insert(self, index, object, /)
+|      Insert object before index.
+|
+|  pop(self, index=-1, /)
+|      Remove and return item at index (default last).
+|
+|      Raises IndexError if list is empty or index is out of range.
+|
+|  remove(self, value, /)
+|      Remove first occurrence of value. Does not return any value.
+|  reverse(self, /)
+|      Reverse *IN PLACE*.
+|
+|  sort(self, /, *, key=None, reverse=False)
+|      Sort the list in ascending order and return None.
+|
+|      The sort is in-place (i.e. the list itself is modified) and stable (i.e. the
+|      order of two equal elements is maintained).
+|
+|      If a key function is given, apply it once to each list item and sort them,
+|      ascending or descending, according to their function values.
+|
+|      The reverse flag can be set to sort in descending order.
+
+# BUILTIN FUNCTIONS
+reduce() 	apply a particular function passed in its argument to all of the list elements stores the
+            intermediate result  and only returns the final summation value
+sum() 	     Sums up the numbers in the list
+ord() 	     Returns an integer representing the Unicode code point of the given Unicode character
+cmp() 	     This function returns 1, if first list is “greater” than second list
+max() 	     return maximum element of given list
+min() 	     return minimum element of given list
+all() 	     Returns true if all element are true or if list is empty
+any() 	     return true if any element of the list is true. if list is empty, return false
+len() 	     Returns length of the list or size of the list
+enumerate() 	Returns enumerate object of list
+accumulate() 	apply a particular function passed in its argument to all of the list elements
+                returns a list containing the intermediate results
+filter() 	      tests if each element of a list true or not
+map() 	     returns a list of the results after applying the given function to each item of a given iterable
+lambda() 	 This function can have any number of arguments but only one expression, which is evaluated and returned.
