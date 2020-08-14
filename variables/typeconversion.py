@@ -109,4 +109,12 @@ print (l)
 
 print(chr(76))
 print(chr(77))
-
+m = 0
+n = ""
+o = None
+print(bool(m)) # False
+print(bool(n)) # False
+print(bool(o)) # False
+# Anything else convert to bool returns true!!!!
+# Even this one:
+print(bool("False"))

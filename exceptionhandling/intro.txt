@@ -1,0 +1,19 @@
+Syntax Error:
+As the name suggest this error is caused by wrong syntax in the code.
+It leads to the termination of the program.
+
+Exceptions:
+Exceptions are raised when the program is syntactically correct but the
+code resulted in an error. This error does not stop the execution of the program,
+however, it changes the normal flow of the program.
+Note: Exception is the base class for all the exceptions in Python.
+
+Else Clause:
+In python, you can also use else clause on the try-except block which must be present
+after all the except clauses. The code enters the else block only if the try clause
+does not raise an exception.
+
+Finally Keyword in Python:
+Python provides a keyword finally, which is always executed after try and except blocks.
+The finally block always executes after normal termination of try block or after try
+block terminates due to some exception.

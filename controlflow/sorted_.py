@@ -1,6 +1,7 @@
 '''
-sorted() is used to print the container is sorted order. It doesn’t sort the
-container, but just prints the container in sorted order for 1 instance.
+sorted() is used to print the container is sorted order.
+It doesn’t sort the container, but just prints the container
+in sorted order for 1 instance.
 Use of set() can be combined to remove duplicate occurrences.
 '''
 # initializing list

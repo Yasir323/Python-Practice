@@ -19,11 +19,11 @@ c = [10, 20, 30]
 d = [10, 20, 30]
 # return the location where the variable
 # is stored
-print(id(a))
+print(id(c))
 
 # return the location where the variable
 # is stored
-print(id(b))
+print(id(d))
 
 # returns false if the location is not same
-print(a is b)
+print(c is d)

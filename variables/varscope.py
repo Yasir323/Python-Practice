@@ -13,6 +13,7 @@ def g():
 def h():
     global a
     a = 3
+    # We just took the global a and changed it's value to 3
     print('Inside h() : ', a)
 
 # Global scope
