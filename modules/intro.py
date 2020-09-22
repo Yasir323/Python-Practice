@@ -30,4 +30,7 @@ in oder to add our own modules by the following way:
 import sys
 sys.path.append('C:\\Users\\Yasir\\Documents\\mystuff\\python\\modules')
 math random sys os datetime calendar functools
+----------------------------------------------------------------------------------
+In pycache folder, Python stores the compiled version of previously imported modules
+to speed up the loading time of these modules.
 '''
