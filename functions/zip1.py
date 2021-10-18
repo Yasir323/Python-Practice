@@ -14,7 +14,10 @@ marks = [40, 50, 60, 70]
 # using zip to map values
 mapped = zip(name, roll_no, marks)
 print(type(mapped))
-
+for name, roll, marks in mapped:
+    print(name)
+    print(roll)
+    print(marks)
 # converting values to print as a set
 mapped = set(mapped)
 
