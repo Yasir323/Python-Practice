@@ -8,6 +8,8 @@ match any vowel, both lowercase and uppercase.
 '''
 vowelRegex = re.compile(r'[aeiouAEIOU]')
 print(vowelRegex.findall('RoboCop eats baby food. BABY FOOD.'))
+print(vowelRegex.search('RoboCop eats baby food. BABY FOOD.').group())
+
 '''
 You can also include ranges of letters or numbers by using a hyphen.
 For example, the character class [a-zA-Z0-9] will match all lowercase letters,
